@@ -1,0 +1,1 @@
+![Preview](https://github.com/jauharnotes/Landing-UI/blob/main/component/preview.png?raw=true)
